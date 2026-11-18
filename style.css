@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(224, 224, 239)
+}
+
+a {
+    font-size: 20px;
+    margin: 20px 0;
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.home-page-list, ul, li, h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+li {
+    padding: 10px;
+    list-style: none;
+    width: 500px;
+    display: block; 
+    margin: 0 auto;
+}
+
+.home-page-list li {
+    display: inline;
+    font-size: 20px;
+    margin: 0 30px;
+
+}
+
+img {
+    margin: 20px auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+}
